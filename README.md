@@ -2,6 +2,9 @@
 
 Se realizó la medición del tiempo de ejecución de 2 algoritmos de ordenación (Insertion Sort y Bubble sort) y se realizó una gráfica para cada uno con los resultados obtenidos.
 
+Por el alumno:
+- Alexis Espinoza Villanueva
+
 ## Instrucciones de ejecución
 1. El usuario deberá tener instalado python e ingresar:
     - Para el algoritmo Bubble Sort:
