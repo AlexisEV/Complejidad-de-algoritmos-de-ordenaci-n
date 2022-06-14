@@ -22,7 +22,7 @@ t2 = time.time()
 t_final = t2-t1
 
 
-print(t_final)
+print(f"El tiempo de ejecución del algoritmo Bubble Sort para un n = {n} fue de:",t_final)
 
 
 
