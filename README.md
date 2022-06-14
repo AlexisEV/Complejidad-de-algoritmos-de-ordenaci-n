@@ -28,4 +28,4 @@ Se realizó la medición del tiempo de ejecución de 2 algoritmos de ordenación
 
 ## Gráficas número de elementos (n) vs tiempo (seg)
 
-- El archivo perm_2b.pdf contiene las tablas y las gráficas número de elementos (n) vs tiempo (seg) para ambos algoritmos de ordenación.
+- El archivo perm2b_AlexisEspinoza.pdf contiene las tablas y las gráficas número de elementos (n) vs tiempo (seg) para ambos algoritmos de ordenación.
