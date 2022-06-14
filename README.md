@@ -17,13 +17,13 @@ Por el alumno:
         ```
         >>> python3 insertion_sort.py
         ```
-2. Para cambiar la cantidad de elementos con el que se ejecutará el algoritmo, el usuario deberá cambiar el valor de n. Para el siguiente ejemplo se usara un n igual a 10000.
+2. Para cambiar la cantidad de elementos con el que se ejecutará el algoritmo, el usuario deberá cambiar el valor de n. Para el siguiente ejemplo se usará un n igual a 10000.
 
     ```
     n = 10000
     ```
 
-3. Finalmente el usuario deberá ejecutar el codigo y el programa le mostrará el tiempo que tomó la ejecución.
+3. Finalmente el usuario deberá ejecutar el código y el programa le mostrará el tiempo que tomó la ejecución.
 
     ```
     El tiempo de ejecución del algoritmo Insertion Sort para un n = 10000 fue de: 1.8384096813201904 
