@@ -21,6 +21,6 @@ t_inicio = time.time()
 l = INSERTION_SORT(lista)
 t_final = time.time()
 tiempo = t_final - t_inicio
-print(tiempo)
+print(f"El tiempo de ejecución del algoritmo Insertion Sort para un n = {n} fue de:",tiempo)
 
 
